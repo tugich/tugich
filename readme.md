@@ -12,7 +12,6 @@
 
 ###
 
-<br>
 <h3 align="left">🛠 Language and Tools:</h3>
 
 ###
@@ -143,7 +142,6 @@
 
 ###
 
-<br>
 <h3 align="left">🔥 My Stats:</h3>
 
 ###
