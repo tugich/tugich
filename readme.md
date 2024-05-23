@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm TUGI from Switzerland. And yes: We love cheese (🧀) and chocolate (🍫)!<br><br>- 🔭 I’m working as Senior Client Engineer<br>- 📚 I'm currently learning developing native Windows apps</p>
+<p align="left">I'm TUGI from Switzerland. And yes: We love cheese (🧀) and chocolate (🍫).<br><br>- 🔭 I’m working as Senior Client Engineer<br>- 📚 I'm currently learning developing native Windows apps</p>
 
 ###
 
