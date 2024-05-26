@@ -4,15 +4,20 @@
 
 ###
 
+<br>
 <h3 align="left">👩‍💻  About Me</h3>
+<hr>
+<a href="https://www.tugi.ch" target="_blank">My website</a> | <a href="https://blog.tugi.ch" target="_blank">My tech blog</a>
 
 ###
 
-<p align="left">I'm TUGI from Switzerland. And yes: We love cheese (🧀) and chocolate (🍫).<br><br>- 🔭 I’m working as Senior Client Engineer<br>- 📚 I'm currently learning developing native Windows apps</p>
+<p align="left">I'm TUGI from Switzerland. And yes: We love cheese (🧀) and chocolate (🍫).<br><br>- 🔭 I’m working as Senior Client Engineer<br>- 📚 I'm currently learning developing native Windows & rapid web apps</p>
 
 ###
 
+<br>
 <h3 align="left">🛠 Language and Tools:</h3>
+<hr>
 
 ###
 
@@ -138,16 +143,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40" alt="xamarin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats:</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tugich&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
